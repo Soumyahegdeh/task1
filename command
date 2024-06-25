@@ -8,4 +8,4 @@ git status
 git log
 git checkout staging-branch
 git remote add origin [github url]
-pit push
+pit push origin -u staging-branch
